@@ -30,3 +30,6 @@ out/
 /cmake-gen.bat
 /line-ending-check.bat
 **/Makefile
+bin/
+bin-int/
+**.vcxproj**
